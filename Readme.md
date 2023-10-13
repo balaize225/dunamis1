@@ -1,0 +1,1 @@
+Ce site presente l'activité du centre de formation dunamis ainsi que l'organisation de ses apprenants.
